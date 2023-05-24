@@ -1,0 +1,26 @@
+# Fichiers générés par l'environnement de développement (par exemple, Eclipse ou IntelliJ)
+.classpath
+.project
+.settings/
+
+# Répertoire de sortie des fichiers compilés
+bin/
+
+# Fichiers de log
+log/
+*.log
+
+# Fichiers de configuration spécifiques à l'environnement
+application.properties
+
+# Fichiers de dépendances téléchargés
+lib/
+
+# Répertoire de sortie des artefacts de construction (par exemple, JAR, WAR)
+target/
+
+# Fichiers de sauvegarde automatique
+*~
+
+# Fichiers cachés
+.DS_Store
